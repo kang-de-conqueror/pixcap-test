@@ -38,5 +38,4 @@ Write a TypeScript program to fulfill the following requirements:
 ## Usage
 1. Clone this project
 2. Run command `npm install` for installing dependencies
-3. Run command `npm start` for starting
-4. Run command `npm test` for testing
+3. Run command `npm test` for testing
